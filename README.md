@@ -41,21 +41,3 @@ I enjoy building clean interfaces, working with application logic and improving 
 ![Gson](https://img.shields.io/badge/Gson-4285F4?style=flat-square)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-<br>
-
-## 🐍 Contributions
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nikitadevktad/nikitadevktad/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nikitadevktad/nikitadevktad/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/nikitadevktad/nikitadevktad/output/github-contribution-grid-snake.svg"
-  />
-</picture>

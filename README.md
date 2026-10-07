@@ -18,12 +18,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikitadevktad&label=Profile%20views&style=flat-square" alt="Profile views" />
-</div>
-
-<br>
-
 ## 👨‍💻 About me
 
 I'm an Android Developer focused on Kotlin and Jetpack Compose.

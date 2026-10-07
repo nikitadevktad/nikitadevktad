@@ -57,3 +57,20 @@ I enjoy building clean interfaces, working with application logic and improving 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nikitadevktad&theme=github-dark-blue&hide_border=false" height="190" alt="GitHub streak" />
 </div>
+
+## 🐍 Contributions
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nikitadevktad/nikitadevktad/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nikitadevktad/nikitadevktad/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/nikitadevktad/nikitadevktad/output/github-contribution-grid-snake.svg"
+  />
+</picture>

@@ -16,16 +16,6 @@
   <a href="https://g.dev/prenom" target="_blank"><img src="https://img.shields.io/static/v1?message=g.dev&logo=google&label=&color=4285F4&logoColor=white&style=for-the-badge" height="27" alt="g.dev" /></a>
 </div>
 
-## 👨‍💻 About me
-
-I'm an Android Developer focused on Kotlin and Jetpack Compose.
-
-I enjoy building clean interfaces, working with application logic and improving my understanding of Android architecture.
-
-- 🧠 Currently improving my knowledge of Android Development & Software Architecture
-- 🤝 Open to collaborating on Android applications and open-source projects
-- 📍 Moscow, Russia
-
 <br>
 
 ## 🛠 Technologies

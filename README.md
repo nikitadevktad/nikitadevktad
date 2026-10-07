@@ -16,8 +16,6 @@
   <a href="https://g.dev/prenom" target="_blank"><img src="https://img.shields.io/static/v1?message=g.dev&logo=google&label=&color=4285F4&logoColor=white&style=for-the-badge" height="27" alt="g.dev" /></a>
 </div>
 
-<br>
-
 ## 👨‍💻 About me
 
 I'm an Android Developer focused on Kotlin and Jetpack Compose.
@@ -44,19 +42,6 @@ I enjoy building clean interfaces, working with application logic and improving 
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 <br>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitadevktad&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitadevktad&layout=compact&theme=github_dark&hide_border=false" height="165" alt="Top languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nikitadevktad&theme=github-dark-blue&hide_border=false" height="190" alt="GitHub streak" />
-</div>
 
 ## 🐍 Contributions
 
